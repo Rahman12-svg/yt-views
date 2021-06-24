@@ -88,8 +88,7 @@ Simple program to increase YouTube views written in Python.
  
   Open command prompt and type
   ```bash
-  $ git clone https://github.com/MShawon/YouTube-Viewer.git
-
+  $ git clone https://github.com/Rahman12-svg/yt-views.git
   $ cd YouTube-Viewer
 
   $ pip install -r requirements.txt
