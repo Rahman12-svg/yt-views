@@ -278,11 +278,11 @@ def gather_proxy():
     print(bcolors.OKGREEN + 'Scraping proxies ...' + bcolors.ENDC)
 
     link_list = ['https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt',
-                 'https://gist.githubusercontent.com/Rahman12-svg/dab9b2273a63655c92fdfecf2129cc6a/raw/b5b9c971c5493f31c82f1631bbcbc1d4febf20d2/proxy',
                  'https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt',
                  'https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/socks4.txt',
                  'https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/socks5.txt',
                  'https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/proxy.txt',
+                 'https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/socks5.txt',
                  'https://raw.githubusercontent.com/sunny9577/proxy-scraper/master/proxies.txt']
 
     for link in link_list:
